@@ -21,18 +21,11 @@
         "gives you an old cookie that was left out in the rain, it's moldy.",
         "bakes you fresh cookies, it smells amazing."
     ],
-    "puukjeens": [
-        "\/me Puukjeens ahuenais čalis!",
-        "\/me @Puukjeens. Eu, Tu te esi??",
-        "\/me Puukjeens Jūsu rīcībā!"
-        ],
+    "puukjeens": "\/me Puukjeens ahuenais čalis!",
     "vimi": "\/me Vimčiks jobans mods xD!",
     "heal": "\/me www.heal.lv",
-    "aizvesturiskais": "\/me Jūsu godājamais kungs, pluga hosts!",
-    "sex": [
-        "\/me Tikai par to noteikti domā.",
-        "\/me Tev nekas vairāk par roku nespīd"
-        ],
+    "aizvesturiskais": "\/me Vsture ir Jūsu godājamais kungs, pluga hosts!",
+    "sex": "\/me Tev nekas vairāk par roku nespīd",
     "balls": [
         "Signs point to yes.",
         "Yes.",
