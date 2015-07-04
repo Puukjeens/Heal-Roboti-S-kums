@@ -21,6 +21,18 @@
         "gives you an old cookie that was left out in the rain, it's moldy.",
         "bakes you fresh cookies, it smells amazing."
     ],
+    "puukjeens": [
+        "\/me Puukjeens ahuenais čalis!",
+        "\/me @Puukjeens. Eu, Tu te esi??",
+        "\/me Puukjeens Jūsu rīcībā!"
+        ],
+    "vimi" : "\/me Vimčiks jobans mods xD!",
+    "heal" : "me www.heal.lv"
+    "aizvesturiskais": "Jūsu godājamais kungs, pluga hosts!"
+    "sex":[
+        "Tikai par to noteikti domā.",
+        "Tev nekas vairāk par roku nespīd"
+        ],
     "balls": [
         "Signs point to yes.",
         "Yes.",
@@ -183,8 +195,6 @@
     "muterank": "\/me [@%%NAME%%] You can't mute persons with an equal or higher rank than you.",
     "oplist": "\/me OP list: %%LINK%%",
     "pong": "\/me Pong!",
-    "puukjeens": "\/me Puukjeens ahuenais čalis!",
-    "vimi": "\/me Vimčiks jobans mods xD!",
     "reload": "\/me Be right back.",
     "removenotinwl": "\/me [@%%NAME%%] Specified user @%%USERNAME%% is not in the waitlist.",
     "roomrules": "\/me Please find the room rules here: %%LINK%%",
