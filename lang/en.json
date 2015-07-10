@@ -10,7 +10,12 @@
         "saka --> Psc, ku laba pesņa!!"
     ],
     "puukjeens": "\/me Puukjeens ahuenais čalis!",
-    "vimi": "\/me Vimčiks jobans mods xD!",
+    "rus":"ŠEIT IR LATVIJA!",
+    "smoke":"aizgaaja uzvilkt duumu",
+    "wc":"aizgaaja pačuraat",
+    "wc2":"Aizgaja cinitiem ar brūno laaci",
+    "hash":"Sapīpējies hašišu visu laiku sapņo par golden freddy and felicity. Da nee, kruts!",
+    "vimi": "\/me Vimčiks ar Pūķi bratani xD!",
     "heal": "\/me www.heal.lv",
     "dota": "\/me O jaaa, DOTA, vot taa ir spele! Ejam uzspelet?",
     "csgo": "\/me Csgo smird",
@@ -25,6 +30,9 @@
     "bots": "\/me Pats Tu nahuj bots!!",
     "vai": [
         "Tak pisies nahuj ar shitajiem jautajumiem!",
+        "Заткнись, иди на хуй",
+        "соси хуй",
+        "axaxaxaxaxaxaxaxxaxax, nee.",
         "Šito man vienreiz Tava mamma prasīja",
         "Piedod, Tu esi parak LOW, lai atbildetu",
         "Uz sho jautajumuu atbildi zina tikai Puukjeens",
@@ -90,6 +98,7 @@
         "Iespejams",
         "Tu joko?",
         "Nepalaujies uz to.",
+        
         "Aizmirsti."
     ],
     "nodatafound": "No previous data found.",
