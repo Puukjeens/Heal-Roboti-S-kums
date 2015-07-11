@@ -16,11 +16,11 @@
     "patssev": "\/me Tu jau galiigi apdolbijies? Pats sev dosi?",
     "weed": "\/me @%%NAME%% tikko uztina kāsīti un ievilka pirmo dūmu. Ceri, ka padalīsies ar Tevi.",
     "padot": [
-        "\/me Tev tikko iedeva ietestēt viņa tīto kāsīti! Pasaki paldies.",
-        "\/me iedeva Tev uzkurīt savu zaljo. Paprovee un noveertee!.",
-        "\/me ieteica ievilkt dūmu no shii kaasiisha!"
+        "Tev tikko iedeva ietestēt viņa tīto kāsīti! Pasaki paldies.",
+        "iedeva Tev uzkurīt savu zaljo. Paprovee un noveertee!.",
+        "ieteica ievilkt dūmu no shii kaasiisha!"
         ],
-    "nosmoke": "atvainojas un saka, ka nesmeekjee. Es arī viņu atbalstu! Nah bojaat veseliibu?",
+    "nosmoke": "\/me atvainojas un saka, ka nesmeekjee. Es arī viņu atbalstu! Nah bojaat veseliibu?",
     "rus":"ŠEIT IR LATVIJA!",
     "smoke":"\/me @%%NAME%% aizgaaja uzvilkt duumu",
     "wc":"\/me @%%NAME%% aizgaaja pamiizt",
