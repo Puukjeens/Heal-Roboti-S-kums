@@ -20,7 +20,7 @@
         "iedeva Tev uzkurīt savu zaljo. Paprovee un noveertee!.",
         "ieteica ievilkt dūmu no shii kaasiisha!"
         ],
-    "nosmoke": "\/me atvainojas un saka, ka nesmeekjee. Es arī viņu atbalstu! Nah bojaat veseliibu?",
+    "nosmoke": "\/me @%%NAME%% atvainojas un saka, ka nesmeekjee. Es arī viņu atbalstu! Nah bojaat veseliibu?",
     "rus":"ŠEIT IR LATVIJA!",
     "smoke":"\/me @%%NAME%% aizgaaja uzvilkt duumu",
     "wc":"\/me @%%NAME%% aizgaaja pamiizt",
