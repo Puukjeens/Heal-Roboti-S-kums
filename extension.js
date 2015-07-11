@@ -62,7 +62,7 @@
         language: "english",
         chatLink: "https://rawgit.com/Puukjeens/Heal-Roboti-S-kums/master/lang/en.json",
         startupCap: 50, // 1-200
-        startupVolume: 100, // 0-100
+        startupVolume: 0, // 0-100
         startupEmoji: true, // true or false
         autowoot: true,
         smartSkip: true,
@@ -77,11 +77,11 @@
         maximumLocktime: 10,
         cycleGuard: true,
         maximumCycletime: 10,
-        voteSkip: false,
+        voteSkip: true,
         voteSkipLimit: 10,
         historySkip: false,
         timeGuard: true,
-        maximumSongLength: 10,
+        maximumSongLength: 7,
         autodisable: true,
         commandCooldown: 30,
         usercommandsEnabled: true,
