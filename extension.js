@@ -51,7 +51,7 @@
       chatLink: "https://rawgit.com/Puukjeens/Heal-Roboti-S-kums/master/lang/en.json",
       scriptLink: "https://rawgit.com/Puukjeens/Heal-Roboti-/master/basicBot.js",
       roomLock: false, // Requires an extension to re-load the script
-      startupCap: 100, // 1-200
+      startupCap: 69, // 1-200
       startupVolume: 0, // 0-100
       startupEmoji: true, // true or false
       autowoot: true,
