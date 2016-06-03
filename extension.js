@@ -48,7 +48,7 @@
     localStorage.setItem("basicBotsettings", JSON.stringify({
       botName: "Mazais latiš",
       language: "english",
-      chatLink: "https://rawgit.com/Puukjeens/Heal-Roboti-/master/lang/en.json",
+      chatLink: "https://rawgit.com/Puukjeens/Heal-Roboti-S-kums/master/lang/en.json",
       scriptLink: "https://rawgit.com/Puukjeens/Heal-Roboti-/master/basicBot.js",
       roomLock: false, // Requires an extension to re-load the script
       startupCap: 100, // 1-200
